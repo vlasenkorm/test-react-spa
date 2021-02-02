@@ -87,7 +87,7 @@ class Analytic extends React.Component {
 
     return (
       <div >
-        <Typography.Title level={2}>Curr URL :  {this.state.url}</Typography.Title>
+        <Typography.Title level={2}>Current url :  {this.state.url}</Typography.Title>
         <List
           header={<Typography.Title level={2}>UniqueTags</Typography.Title>}
           bordered
